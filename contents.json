@@ -5604,6 +5604,11 @@
       "category": "images",
       "description": "Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.",
       "homepage": "https://github.com/Feghal/ImageDetect"
+    }, {
+      "title": "PMJSON",
+      "category": "json",
+      "description": "Pure Swift JSON encoding/decoding library.",
+      "homepage": "https://github.com/postmates/PMJSON"
     }
   ]
 }
